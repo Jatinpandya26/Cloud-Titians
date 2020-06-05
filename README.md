@@ -19,7 +19,7 @@ git clone https://github.com/JasbirCodeSpace/Cloud-Titians.git
 - Install Dependencies
 
 ```bash
-cd django-notekeeper
+cd Cloud-Titians
 pip install -r requirements.txt
 ```
 

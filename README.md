@@ -37,6 +37,8 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-# Working
+# Testing
 
-![working](results/working.gif)
+for testing you can use the following testing account:
+- username : Jasbir
+- password : Notes12345
